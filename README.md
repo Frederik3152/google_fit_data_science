@@ -7,7 +7,7 @@ The main libraries used are pandas, numpy, matplotlib, seaborn and sklearn.
 The project is concerned with drawing conclusions from my own activity metrics grabbed from the Google Fit API (www.takeout.google.com). 
 And thereby aims to answer the following questions:
 1. What is the weekly distribution of walking distance and is there a difference in walking speed across the week?
-2. Which weekday is the most common of not hitting 10,000 steps?
+2. Which weekday is the most common of not hitting the goal of 10,000 steps?
 3. How has my walking pattern evolved over time?
 4. What is the relationship between walking speed, walking distance and burned calories?
 
